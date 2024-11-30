@@ -1,6 +1,6 @@
-hack the code
+Hack the Code: The second player is guessing the code.  
+The code is encrypted.  
 
-this game is called hack the code.
-this is for two players.
-where the  one player is creating code.
+This game is called "Hack the Code."  
+It is for two players, where one player creates a code, and the other tries to guess it.
 
